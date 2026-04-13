@@ -1,5 +1,7 @@
 # Companion Spider Bot
 
+<img width="853" height="525" alt="Screenshot 2026-04-13 125111" src="https://github.com/user-attachments/assets/4507b277-4f8e-4eb3-a0c7-a27edf7673fd" />
+
 ## Overview
 This is a fully custom, 12-DOF quadruped companion robot. This was made to make school and general life a lot more fun and streamlined. This bot will connect to my NAS and be able to transcribe and capture relavent pictures during lectures to be reviewed later. It can also act as an auxiliary screen, and the reason I have made this into a bot is because I wanted to mimic Ankis Cosmo and have that sort of fun and quirky factor to this.
 
